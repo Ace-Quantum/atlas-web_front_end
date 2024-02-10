@@ -10,14 +10,14 @@ a {
     color: #161616;
 }
 
-virtually-hidden {
+element.virtually-hidden {
     display: none;
 }
 
-card-category {
+element.card-category {
     color: #D73953;
 }
 
-section-tagline {
+element.section-tagline {
     color: #D73953;
 }
