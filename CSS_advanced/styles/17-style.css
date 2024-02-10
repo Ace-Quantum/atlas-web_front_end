@@ -74,6 +74,14 @@ a:active {
     color: var(--section-title-color);
 }
 
+.section-footer {
+    padding-left: var(--section-footer-padding);
+    padding-right: var(--section-footer-padding);
+    padding-top: var(--section-footer-padding);
+    padding-bottom: var(--section-footer-padding);
+    text-align: var(--section-footer-align);
+}
+
 .section-tagline {
     color: var(--color-primary);
     font-family: var(--font-family-title);
