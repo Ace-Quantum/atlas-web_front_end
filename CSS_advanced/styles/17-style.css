@@ -59,11 +59,11 @@ a:active {
 }
 
 .section-body {
-    padding-left: var(--section-footer-padding);
-    padding-right: var(--section-footer-padding);
-    padding-top: var(--section-footer-padding);
-    padding-bottom: var(--section-footer-padding);
-    text-align: var(--section-footer-align);
+    padding-left: var(--section-body-padding);
+    padding-right: var(--section-body-padding);
+    padding-top: var(--section-body-padding);
+    padding-bottom: var(--section-body-padding);
+    text-align: var(--section-body-align);
 }
 
 .section-title {
