@@ -13,7 +13,7 @@ html {
 [data-section-theme="dark"] {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
-    --background: var(--color-black);
+    background: var(--color-black);
 }
 
 body {
@@ -162,6 +162,18 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer {
     padding: var(--footer-padding);
+}
+
+.footer-address {
+    color: var(--text-color);
+}
+
+.social-link {
+    display: block;
+}
+
+.social-link > svg {
+    color: var(--text-color);
 }
 
 :root {
