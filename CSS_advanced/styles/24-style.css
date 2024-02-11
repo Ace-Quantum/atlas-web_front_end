@@ -53,6 +53,12 @@ a:active {
     margin: 0;
 }
 
+a:card-services {
+    display: block;
+    padding: 2rem;
+    background-color: var(--color-light-grey);
+}
+
 .navbar-menu {
     float: right;
 }
