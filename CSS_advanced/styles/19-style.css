@@ -89,6 +89,22 @@ a:active {
     padding: .5rem;
 }
 
+.col-1-2 {
+    width: .5em;
+    float: left;
+    padding: .5rem;
+}
+
+.footer-copyright {
+    margin: 0;
+    font-size: var(--font-size-small);
+    color: var(--text-color);
+}
+
+.footer .ul {
+    text-align: right;
+}
+
 .section-header {
     text-align: var(--section-header-align);
     padding: var(--section-header-padding);
