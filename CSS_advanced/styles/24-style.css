@@ -13,7 +13,7 @@ html {
 [data-section-theme="dark"] {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
-    --background: var(--color-black);
+    background: var(--color-black);
 }
 
 body {
@@ -46,7 +46,11 @@ a:active {
 }
 
 .card-category {
-    color: var(--color-primary)
+    color: var(--color-primary);
+}
+
+.card-services .card-title {
+    margin: none;
 }
 
 .navbar-menu {
@@ -162,6 +166,18 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer {
     padding: var(--footer-padding);
+}
+
+.footer-address {
+    color: var(--text-color);
+}
+
+.social-link {
+    display: block;
+}
+
+.social-link > svg {
+    fill: var(--text-color);
 }
 
 :root {
