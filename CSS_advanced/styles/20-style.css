@@ -83,7 +83,7 @@ ul.row {
     list-style: none;
 }
 
-ul.row::after {
+ul.row:after {
     content: "";
     display: table;
     float: none;
