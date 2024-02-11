@@ -84,7 +84,7 @@ ul.row {
 }
 
 .col-1-3 {
-    width: 1/3em;
+    width: 33.33%em;
     float: left;
     padding: .5rem;
 }
