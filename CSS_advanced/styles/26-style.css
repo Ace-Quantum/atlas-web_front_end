@@ -66,17 +66,17 @@ a:active {
     text-decoration: none;
 }
 
-.card-testemonial {
+.card-testimonial {
     text-align: center;
 }
 
-.card-testemonial .card-avatar {
+.card-testimonial .card-avatar {
     border-radius: 50%;
     width: 10rem;
     height: 10rem;
 }
 
-.card-testemonial .card-avatar cite {
+.card-testimonial .card-avatar cite {
     display: block;
     padding: 1rem;
     color: var(--color-primary);
